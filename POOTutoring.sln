@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "POOTutoring", "POOTutoring\POOTutoring.vcxproj", "{6EC25320-2841-4EF4-BFA3-B956E4658604}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EC25320-2841-4EF4-BFA3-B956E4658604}.Debug|x64.ActiveCfg = Debug|x64
+		{6EC25320-2841-4EF4-BFA3-B956E4658604}.Debug|x64.Build.0 = Debug|x64
+		{6EC25320-2841-4EF4-BFA3-B956E4658604}.Debug|x86.ActiveCfg = Debug|Win32
+		{6EC25320-2841-4EF4-BFA3-B956E4658604}.Debug|x86.Build.0 = Debug|Win32
+		{6EC25320-2841-4EF4-BFA3-B956E4658604}.Release|x64.ActiveCfg = Release|x64
+		{6EC25320-2841-4EF4-BFA3-B956E4658604}.Release|x64.Build.0 = Release|x64
+		{6EC25320-2841-4EF4-BFA3-B956E4658604}.Release|x86.ActiveCfg = Release|Win32
+		{6EC25320-2841-4EF4-BFA3-B956E4658604}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5DD2408-65DF-4669-96B1-F791D283ED45}
+	EndGlobalSection
+EndGlobal
